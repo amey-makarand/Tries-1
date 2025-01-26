@@ -5,7 +5,7 @@
 
 # Create a trie node strcuture which stores the word as it does a bfs traversal
 # While checking the longest word make sure to iterate in lexicographically reverse order
-# If a at atage there is no word, the queue will become empty. In such cases return a "".
+# If a at atage there is no word, the queue will become empty. In such cases return a "".x
 
 class Solution:
     class TrieNode:
